@@ -1,3 +1,4 @@
+```mermaid
 graph TB
     %% Technical Variables
     ElecGen[Electricity Generation Capacity]
